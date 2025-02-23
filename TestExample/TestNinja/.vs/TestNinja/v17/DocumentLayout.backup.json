@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25B6BFA0-E43D-47DE-9E3C-CFF919164D34}|UnitTests\\UnitTests.csproj|d:\\courses \u0026 projects\\unittesting using c#\\testexample\\testninja\\unittests\\demeritpointscalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B6BFA0-E43D-47DE-9E3C-CFF919164D34}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\demeritpointscalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B6BFA0-E43D-47DE-9E3C-CFF919164D34}|UnitTests\\UnitTests.csproj|d:\\courses \u0026 projects\\unittesting using c#\\testexample\\testninja\\unittests\\customercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B6BFA0-E43D-47DE-9E3C-CFF919164D34}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\customercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B6BFA0-E43D-47DE-9E3C-CFF919164D34}|UnitTests\\UnitTests.csproj|d:\\courses \u0026 projects\\unittesting using c#\\testexample\\testninja\\unittests\\mocking\\videoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B6BFA0-E43D-47DE-9E3C-CFF919164D34}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\mocking\\videoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B6BFA0-E43D-47DE-9E3C-CFF919164D34}|UnitTests\\UnitTests.csproj|d:\\courses \u0026 projects\\unittesting using c#\\testexample\\testninja\\unittests\\mocking\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B6BFA0-E43D-47DE-9E3C-CFF919164D34}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\mocking\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B6BFA0-E43D-47DE-9E3C-CFF919164D34}|UnitTests\\UnitTests.csproj|d:\\courses \u0026 projects\\unittesting using c#\\testexample\\testninja\\unittests\\mocking\\orderservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B6BFA0-E43D-47DE-9E3C-CFF919164D34}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\mocking\\orderservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B6BFA0-E43D-47DE-9E3C-CFF919164D34}|UnitTests\\UnitTests.csproj|d:\\courses \u0026 projects\\unittesting using c#\\testexample\\testninja\\unittests\\mocking\\installerhelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B6BFA0-E43D-47DE-9E3C-CFF919164D34}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\mocking\\installerhelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B6BFA0-E43D-47DE-9E3C-CFF919164D34}|UnitTests\\UnitTests.csproj|d:\\courses \u0026 projects\\unittesting using c#\\testexample\\testninja\\unittests\\mocking\\housekeeperservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B6BFA0-E43D-47DE-9E3C-CFF919164D34}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\mocking\\housekeeperservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B6BFA0-E43D-47DE-9E3C-CFF919164D34}|UnitTests\\UnitTests.csproj|d:\\courses \u0026 projects\\unittesting using c#\\testexample\\testninja\\unittests\\mocking\\employeecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B6BFA0-E43D-47DE-9E3C-CFF919164D34}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\mocking\\employeecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B6BFA0-E43D-47DE-9E3C-CFF919164D34}|UnitTests\\UnitTests.csproj|d:\\courses \u0026 projects\\unittesting using c#\\testexample\\testninja\\unittests\\mocking\\bookinghelper_overlappingbookingexisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B6BFA0-E43D-47DE-9E3C-CFF919164D34}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\mocking\\bookinghelper_overlappingbookingexisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7328740E-4B78-464F-8352-65D887F2145F}|TestNinja\\TestNinja.csproj|D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\testninja\\mocking\\housekeeperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7328740E-4B78-464F-8352-65D887F2145F}|TestNinja\\TestNinja.csproj|solutionrelative:testninja\\mocking\\housekeeperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7328740E-4B78-464F-8352-65D887F2145F}|TestNinja\\TestNinja.csproj|D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\testninja\\mocking\\statementgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7328740E-4B78-464F-8352-65D887F2145F}|TestNinja\\TestNinja.csproj|solutionrelative:testninja\\mocking\\statementgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7328740E-4B78-464F-8352-65D887F2145F}|TestNinja\\TestNinja.csproj|D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\testninja\\mocking\\installerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7328740E-4B78-464F-8352-65D887F2145F}|TestNinja\\TestNinja.csproj|solutionrelative:testninja\\mocking\\installerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7328740E-4B78-464F-8352-65D887F2145F}|TestNinja\\TestNinja.csproj|D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\testninja\\mocking\\bookinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7328740E-4B78-464F-8352-65D887F2145F}|TestNinja\\TestNinja.csproj|solutionrelative:testninja\\mocking\\bookinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7328740E-4B78-464F-8352-65D887F2145F}|TestNinja\\TestNinja.csproj|D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\testninja\\mocking\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7328740E-4B78-464F-8352-65D887F2145F}|TestNinja\\TestNinja.csproj|solutionrelative:testninja\\mocking\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7328740E-4B78-464F-8352-65D887F2145F}|TestNinja\\TestNinja.csproj|D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\testninja\\mocking\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7328740E-4B78-464F-8352-65D887F2145F}|TestNinja\\TestNinja.csproj|solutionrelative:testninja\\mocking\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7328740E-4B78-464F-8352-65D887F2145F}|TestNinja\\TestNinja.csproj|D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\testninja\\mocking\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7328740E-4B78-464F-8352-65D887F2145F}|TestNinja\\TestNinja.csproj|solutionrelative:testninja\\mocking\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DemeritPointsCalculatorTests.cs",
+              "DocumentMoniker": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\UnitTests\\DemeritPointsCalculatorTests.cs",
+              "RelativeDocumentMoniker": "UnitTests\\DemeritPointsCalculatorTests.cs",
+              "ToolTip": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\UnitTests\\DemeritPointsCalculatorTests.cs",
+              "RelativeToolTip": "UnitTests\\DemeritPointsCalculatorTests.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:39:18.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerControllerTest.cs",
+              "DocumentMoniker": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\UnitTests\\CustomerControllerTest.cs",
+              "RelativeDocumentMoniker": "UnitTests\\CustomerControllerTest.cs",
+              "ToolTip": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\UnitTests\\CustomerControllerTest.cs",
+              "RelativeToolTip": "UnitTests\\CustomerControllerTest.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:39:15.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideoServiceTests.cs",
+              "DocumentMoniker": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\UnitTests\\Mocking\\VideoServiceTests.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Mocking\\VideoServiceTests.cs",
+              "ToolTip": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\UnitTests\\Mocking\\VideoServiceTests.cs",
+              "RelativeToolTip": "UnitTests\\Mocking\\VideoServiceTests.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:39:11.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductTests.cs",
+              "DocumentMoniker": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\UnitTests\\Mocking\\ProductTests.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Mocking\\ProductTests.cs",
+              "ToolTip": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\UnitTests\\Mocking\\ProductTests.cs",
+              "RelativeToolTip": "UnitTests\\Mocking\\ProductTests.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:39:08.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderServiceTests.cs",
+              "DocumentMoniker": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\UnitTests\\Mocking\\OrderServiceTests.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Mocking\\OrderServiceTests.cs",
+              "ToolTip": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\UnitTests\\Mocking\\OrderServiceTests.cs",
+              "RelativeToolTip": "UnitTests\\Mocking\\OrderServiceTests.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:39:05.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InstallerHelperTests.cs",
+              "DocumentMoniker": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\UnitTests\\Mocking\\InstallerHelperTests.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Mocking\\InstallerHelperTests.cs",
+              "ToolTip": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\UnitTests\\Mocking\\InstallerHelperTests.cs",
+              "RelativeToolTip": "UnitTests\\Mocking\\InstallerHelperTests.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:39:02.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeControllerTests.cs",
+              "DocumentMoniker": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\UnitTests\\Mocking\\EmployeeControllerTests.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Mocking\\EmployeeControllerTests.cs",
+              "ToolTip": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\UnitTests\\Mocking\\EmployeeControllerTests.cs",
+              "RelativeToolTip": "UnitTests\\Mocking\\EmployeeControllerTests.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:38:50.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingHelper_OverlappingBookingExistTests.cs",
+              "DocumentMoniker": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\UnitTests\\Mocking\\BookingHelper_OverlappingBookingExistTests.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Mocking\\BookingHelper_OverlappingBookingExistTests.cs",
+              "ToolTip": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\UnitTests\\Mocking\\BookingHelper_OverlappingBookingExistTests.cs",
+              "RelativeToolTip": "UnitTests\\Mocking\\BookingHelper_OverlappingBookingExistTests.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:38:45.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HouseKeeperServiceTests.cs",
+              "DocumentMoniker": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\UnitTests\\Mocking\\HouseKeeperServiceTests.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Mocking\\HouseKeeperServiceTests.cs",
+              "ToolTip": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\UnitTests\\Mocking\\HouseKeeperServiceTests.cs",
+              "RelativeToolTip": "UnitTests\\Mocking\\HouseKeeperServiceTests.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T08:22:38.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\TestNinja\\Mocking\\EmailSender.cs",
+              "RelativeDocumentMoniker": "TestNinja\\Mocking\\EmailSender.cs",
+              "ToolTip": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\TestNinja\\Mocking\\EmailSender.cs",
+              "RelativeToolTip": "TestNinja\\Mocking\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T08:06:32.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StatementGenerator.cs",
+              "DocumentMoniker": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\TestNinja\\Mocking\\StatementGenerator.cs",
+              "RelativeDocumentMoniker": "TestNinja\\Mocking\\StatementGenerator.cs",
+              "ToolTip": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\TestNinja\\Mocking\\StatementGenerator.cs",
+              "RelativeToolTip": "TestNinja\\Mocking\\StatementGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T08:04:06.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InstallerHelper.cs",
+              "DocumentMoniker": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\TestNinja\\Mocking\\InstallerHelper.cs",
+              "RelativeDocumentMoniker": "TestNinja\\Mocking\\InstallerHelper.cs",
+              "ToolTip": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\TestNinja\\Mocking\\InstallerHelper.cs",
+              "RelativeToolTip": "TestNinja\\Mocking\\InstallerHelper.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwBYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T07:57:21.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookingHelper.cs",
+              "DocumentMoniker": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\TestNinja\\Mocking\\BookingHelper.cs",
+              "RelativeDocumentMoniker": "TestNinja\\Mocking\\BookingHelper.cs",
+              "ToolTip": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\TestNinja\\Mocking\\BookingHelper.cs",
+              "RelativeToolTip": "TestNinja\\Mocking\\BookingHelper.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwBsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T07:55:08.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HousekeeperService.cs",
+              "DocumentMoniker": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\TestNinja\\Mocking\\HousekeeperService.cs",
+              "RelativeDocumentMoniker": "TestNinja\\Mocking\\HousekeeperService.cs",
+              "ToolTip": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\TestNinja\\Mocking\\HousekeeperService.cs",
+              "RelativeToolTip": "TestNinja\\Mocking\\HousekeeperService.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAuwBkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T08:13:52.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FileReader.cs",
+              "DocumentMoniker": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\TestNinja\\Mocking\\FileReader.cs",
+              "RelativeDocumentMoniker": "TestNinja\\Mocking\\FileReader.cs",
+              "ToolTip": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\TestNinja\\Mocking\\FileReader.cs",
+              "RelativeToolTip": "TestNinja\\Mocking\\FileReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T08:11:13.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\TestNinja\\Mocking\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "TestNinja\\Mocking\\BookingRepository.cs",
+              "ToolTip": "D:\\Courses \u0026 Projects\\UnitTesting using C#\\TestExample\\TestNinja\\TestNinja\\Mocking\\BookingRepository.cs",
+              "RelativeToolTip": "TestNinja\\Mocking\\BookingRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAWwA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:24:05.414Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
